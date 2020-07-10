@@ -1,6 +1,7 @@
-You tought it was some developer's profile
+### You thought it was some developer profile
 
-![But it was me, DIO](dio.gif)
+### BUT 
+![it was me, DIO](dio.gif)
 
 <!--
 **thblckjkr/thblckjkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
