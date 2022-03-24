@@ -8,6 +8,8 @@
 
 ---
 
+## About Me
+
 I like to work providing solutions to existing teams, creating environments, and methodologies to make easier the deployment of `code` and maintaining critical infraestructure.
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -18,6 +20,9 @@ I like to work providing solutions to existing teams, creating environments, and
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+---
+
+### Previous experience
 
 I have experience developing and maintaining a wide variety of software, multiplatform applications, web interfaces, system services, automated testing and devops pipelines.
 
